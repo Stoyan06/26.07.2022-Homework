@@ -1,0 +1,15 @@
+D:\Давид обучение\26.07.2022\Solution\TribonacciSequence\bin\Debug\net6.0\TribonacciSequence.exe
+D:\Давид обучение\26.07.2022\Solution\TribonacciSequence\bin\Debug\net6.0\TribonacciSequence.deps.json
+D:\Давид обучение\26.07.2022\Solution\TribonacciSequence\bin\Debug\net6.0\TribonacciSequence.runtimeconfig.json
+D:\Давид обучение\26.07.2022\Solution\TribonacciSequence\bin\Debug\net6.0\TribonacciSequence.dll
+D:\Давид обучение\26.07.2022\Solution\TribonacciSequence\bin\Debug\net6.0\TribonacciSequence.pdb
+D:\Давид обучение\26.07.2022\Solution\TribonacciSequence\obj\Debug\net6.0\TribonacciSequence.csproj.AssemblyReference.cache
+D:\Давид обучение\26.07.2022\Solution\TribonacciSequence\obj\Debug\net6.0\TribonacciSequence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид обучение\26.07.2022\Solution\TribonacciSequence\obj\Debug\net6.0\TribonacciSequence.AssemblyInfoInputs.cache
+D:\Давид обучение\26.07.2022\Solution\TribonacciSequence\obj\Debug\net6.0\TribonacciSequence.AssemblyInfo.cs
+D:\Давид обучение\26.07.2022\Solution\TribonacciSequence\obj\Debug\net6.0\TribonacciSequence.csproj.CoreCompileInputs.cache
+D:\Давид обучение\26.07.2022\Solution\TribonacciSequence\obj\Debug\net6.0\TribonacciSequence.dll
+D:\Давид обучение\26.07.2022\Solution\TribonacciSequence\obj\Debug\net6.0\refint\TribonacciSequence.dll
+D:\Давид обучение\26.07.2022\Solution\TribonacciSequence\obj\Debug\net6.0\TribonacciSequence.pdb
+D:\Давид обучение\26.07.2022\Solution\TribonacciSequence\obj\Debug\net6.0\TribonacciSequence.genruntimeconfig.cache
+D:\Давид обучение\26.07.2022\Solution\TribonacciSequence\obj\Debug\net6.0\ref\TribonacciSequence.dll

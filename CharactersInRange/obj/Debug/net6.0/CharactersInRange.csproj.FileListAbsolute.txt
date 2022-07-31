@@ -1,0 +1,15 @@
+D:\Давид обучение\26.07.2022\Solution\CharactersInRange\bin\Debug\net6.0\CharactersInRange.exe
+D:\Давид обучение\26.07.2022\Solution\CharactersInRange\bin\Debug\net6.0\CharactersInRange.deps.json
+D:\Давид обучение\26.07.2022\Solution\CharactersInRange\bin\Debug\net6.0\CharactersInRange.runtimeconfig.json
+D:\Давид обучение\26.07.2022\Solution\CharactersInRange\bin\Debug\net6.0\CharactersInRange.dll
+D:\Давид обучение\26.07.2022\Solution\CharactersInRange\bin\Debug\net6.0\CharactersInRange.pdb
+D:\Давид обучение\26.07.2022\Solution\CharactersInRange\obj\Debug\net6.0\CharactersInRange.csproj.AssemblyReference.cache
+D:\Давид обучение\26.07.2022\Solution\CharactersInRange\obj\Debug\net6.0\CharactersInRange.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид обучение\26.07.2022\Solution\CharactersInRange\obj\Debug\net6.0\CharactersInRange.AssemblyInfoInputs.cache
+D:\Давид обучение\26.07.2022\Solution\CharactersInRange\obj\Debug\net6.0\CharactersInRange.AssemblyInfo.cs
+D:\Давид обучение\26.07.2022\Solution\CharactersInRange\obj\Debug\net6.0\CharactersInRange.csproj.CoreCompileInputs.cache
+D:\Давид обучение\26.07.2022\Solution\CharactersInRange\obj\Debug\net6.0\CharactersInRange.dll
+D:\Давид обучение\26.07.2022\Solution\CharactersInRange\obj\Debug\net6.0\refint\CharactersInRange.dll
+D:\Давид обучение\26.07.2022\Solution\CharactersInRange\obj\Debug\net6.0\CharactersInRange.pdb
+D:\Давид обучение\26.07.2022\Solution\CharactersInRange\obj\Debug\net6.0\CharactersInRange.genruntimeconfig.cache
+D:\Давид обучение\26.07.2022\Solution\CharactersInRange\obj\Debug\net6.0\ref\CharactersInRange.dll

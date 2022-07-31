@@ -1,0 +1,15 @@
+D:\Давид обучение\26.07.2022\Solution\FactorialDivision\bin\Debug\net6.0\FactorialDivision.exe
+D:\Давид обучение\26.07.2022\Solution\FactorialDivision\bin\Debug\net6.0\FactorialDivision.deps.json
+D:\Давид обучение\26.07.2022\Solution\FactorialDivision\bin\Debug\net6.0\FactorialDivision.runtimeconfig.json
+D:\Давид обучение\26.07.2022\Solution\FactorialDivision\bin\Debug\net6.0\FactorialDivision.dll
+D:\Давид обучение\26.07.2022\Solution\FactorialDivision\bin\Debug\net6.0\FactorialDivision.pdb
+D:\Давид обучение\26.07.2022\Solution\FactorialDivision\obj\Debug\net6.0\FactorialDivision.csproj.AssemblyReference.cache
+D:\Давид обучение\26.07.2022\Solution\FactorialDivision\obj\Debug\net6.0\FactorialDivision.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид обучение\26.07.2022\Solution\FactorialDivision\obj\Debug\net6.0\FactorialDivision.AssemblyInfoInputs.cache
+D:\Давид обучение\26.07.2022\Solution\FactorialDivision\obj\Debug\net6.0\FactorialDivision.AssemblyInfo.cs
+D:\Давид обучение\26.07.2022\Solution\FactorialDivision\obj\Debug\net6.0\FactorialDivision.csproj.CoreCompileInputs.cache
+D:\Давид обучение\26.07.2022\Solution\FactorialDivision\obj\Debug\net6.0\FactorialDivision.dll
+D:\Давид обучение\26.07.2022\Solution\FactorialDivision\obj\Debug\net6.0\refint\FactorialDivision.dll
+D:\Давид обучение\26.07.2022\Solution\FactorialDivision\obj\Debug\net6.0\FactorialDivision.pdb
+D:\Давид обучение\26.07.2022\Solution\FactorialDivision\obj\Debug\net6.0\FactorialDivision.genruntimeconfig.cache
+D:\Давид обучение\26.07.2022\Solution\FactorialDivision\obj\Debug\net6.0\ref\FactorialDivision.dll

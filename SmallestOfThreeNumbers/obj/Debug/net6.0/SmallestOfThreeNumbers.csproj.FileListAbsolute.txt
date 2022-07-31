@@ -1,0 +1,15 @@
+D:\Давид обучение\26.07.2022\Solution\SmallestOfThreeNumbers\bin\Debug\net6.0\SmallestOfThreeNumbers.exe
+D:\Давид обучение\26.07.2022\Solution\SmallestOfThreeNumbers\bin\Debug\net6.0\SmallestOfThreeNumbers.deps.json
+D:\Давид обучение\26.07.2022\Solution\SmallestOfThreeNumbers\bin\Debug\net6.0\SmallestOfThreeNumbers.runtimeconfig.json
+D:\Давид обучение\26.07.2022\Solution\SmallestOfThreeNumbers\bin\Debug\net6.0\SmallestOfThreeNumbers.dll
+D:\Давид обучение\26.07.2022\Solution\SmallestOfThreeNumbers\bin\Debug\net6.0\SmallestOfThreeNumbers.pdb
+D:\Давид обучение\26.07.2022\Solution\SmallestOfThreeNumbers\obj\Debug\net6.0\SmallestOfThreeNumbers.csproj.AssemblyReference.cache
+D:\Давид обучение\26.07.2022\Solution\SmallestOfThreeNumbers\obj\Debug\net6.0\SmallestOfThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид обучение\26.07.2022\Solution\SmallestOfThreeNumbers\obj\Debug\net6.0\SmallestOfThreeNumbers.AssemblyInfoInputs.cache
+D:\Давид обучение\26.07.2022\Solution\SmallestOfThreeNumbers\obj\Debug\net6.0\SmallestOfThreeNumbers.AssemblyInfo.cs
+D:\Давид обучение\26.07.2022\Solution\SmallestOfThreeNumbers\obj\Debug\net6.0\SmallestOfThreeNumbers.csproj.CoreCompileInputs.cache
+D:\Давид обучение\26.07.2022\Solution\SmallestOfThreeNumbers\obj\Debug\net6.0\SmallestOfThreeNumbers.dll
+D:\Давид обучение\26.07.2022\Solution\SmallestOfThreeNumbers\obj\Debug\net6.0\refint\SmallestOfThreeNumbers.dll
+D:\Давид обучение\26.07.2022\Solution\SmallestOfThreeNumbers\obj\Debug\net6.0\SmallestOfThreeNumbers.pdb
+D:\Давид обучение\26.07.2022\Solution\SmallestOfThreeNumbers\obj\Debug\net6.0\SmallestOfThreeNumbers.genruntimeconfig.cache
+D:\Давид обучение\26.07.2022\Solution\SmallestOfThreeNumbers\obj\Debug\net6.0\ref\SmallestOfThreeNumbers.dll

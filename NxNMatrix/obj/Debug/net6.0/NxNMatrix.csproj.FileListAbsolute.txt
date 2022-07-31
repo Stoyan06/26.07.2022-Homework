@@ -1,0 +1,15 @@
+D:\Давид обучение\26.07.2022\Solution\NxNMatrix\bin\Debug\net6.0\NxNMatrix.exe
+D:\Давид обучение\26.07.2022\Solution\NxNMatrix\bin\Debug\net6.0\NxNMatrix.deps.json
+D:\Давид обучение\26.07.2022\Solution\NxNMatrix\bin\Debug\net6.0\NxNMatrix.runtimeconfig.json
+D:\Давид обучение\26.07.2022\Solution\NxNMatrix\bin\Debug\net6.0\NxNMatrix.dll
+D:\Давид обучение\26.07.2022\Solution\NxNMatrix\bin\Debug\net6.0\NxNMatrix.pdb
+D:\Давид обучение\26.07.2022\Solution\NxNMatrix\obj\Debug\net6.0\NxNMatrix.csproj.AssemblyReference.cache
+D:\Давид обучение\26.07.2022\Solution\NxNMatrix\obj\Debug\net6.0\NxNMatrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид обучение\26.07.2022\Solution\NxNMatrix\obj\Debug\net6.0\NxNMatrix.AssemblyInfoInputs.cache
+D:\Давид обучение\26.07.2022\Solution\NxNMatrix\obj\Debug\net6.0\NxNMatrix.AssemblyInfo.cs
+D:\Давид обучение\26.07.2022\Solution\NxNMatrix\obj\Debug\net6.0\NxNMatrix.csproj.CoreCompileInputs.cache
+D:\Давид обучение\26.07.2022\Solution\NxNMatrix\obj\Debug\net6.0\NxNMatrix.dll
+D:\Давид обучение\26.07.2022\Solution\NxNMatrix\obj\Debug\net6.0\refint\NxNMatrix.dll
+D:\Давид обучение\26.07.2022\Solution\NxNMatrix\obj\Debug\net6.0\NxNMatrix.pdb
+D:\Давид обучение\26.07.2022\Solution\NxNMatrix\obj\Debug\net6.0\NxNMatrix.genruntimeconfig.cache
+D:\Давид обучение\26.07.2022\Solution\NxNMatrix\obj\Debug\net6.0\ref\NxNMatrix.dll

@@ -1,0 +1,15 @@
+D:\Давид обучение\26.07.2022\Solution\VowelsCount\bin\Debug\net6.0\VowelsCount.exe
+D:\Давид обучение\26.07.2022\Solution\VowelsCount\bin\Debug\net6.0\VowelsCount.deps.json
+D:\Давид обучение\26.07.2022\Solution\VowelsCount\bin\Debug\net6.0\VowelsCount.runtimeconfig.json
+D:\Давид обучение\26.07.2022\Solution\VowelsCount\bin\Debug\net6.0\VowelsCount.dll
+D:\Давид обучение\26.07.2022\Solution\VowelsCount\bin\Debug\net6.0\VowelsCount.pdb
+D:\Давид обучение\26.07.2022\Solution\VowelsCount\obj\Debug\net6.0\VowelsCount.csproj.AssemblyReference.cache
+D:\Давид обучение\26.07.2022\Solution\VowelsCount\obj\Debug\net6.0\VowelsCount.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид обучение\26.07.2022\Solution\VowelsCount\obj\Debug\net6.0\VowelsCount.AssemblyInfoInputs.cache
+D:\Давид обучение\26.07.2022\Solution\VowelsCount\obj\Debug\net6.0\VowelsCount.AssemblyInfo.cs
+D:\Давид обучение\26.07.2022\Solution\VowelsCount\obj\Debug\net6.0\VowelsCount.csproj.CoreCompileInputs.cache
+D:\Давид обучение\26.07.2022\Solution\VowelsCount\obj\Debug\net6.0\VowelsCount.dll
+D:\Давид обучение\26.07.2022\Solution\VowelsCount\obj\Debug\net6.0\refint\VowelsCount.dll
+D:\Давид обучение\26.07.2022\Solution\VowelsCount\obj\Debug\net6.0\VowelsCount.pdb
+D:\Давид обучение\26.07.2022\Solution\VowelsCount\obj\Debug\net6.0\VowelsCount.genruntimeconfig.cache
+D:\Давид обучение\26.07.2022\Solution\VowelsCount\obj\Debug\net6.0\ref\VowelsCount.dll

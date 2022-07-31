@@ -1,0 +1,15 @@
+D:\Давид обучение\26.07.2022\Solution\ArrayManipulator\bin\Debug\net6.0\ArrayManipulator.exe
+D:\Давид обучение\26.07.2022\Solution\ArrayManipulator\bin\Debug\net6.0\ArrayManipulator.deps.json
+D:\Давид обучение\26.07.2022\Solution\ArrayManipulator\bin\Debug\net6.0\ArrayManipulator.runtimeconfig.json
+D:\Давид обучение\26.07.2022\Solution\ArrayManipulator\bin\Debug\net6.0\ArrayManipulator.dll
+D:\Давид обучение\26.07.2022\Solution\ArrayManipulator\bin\Debug\net6.0\ArrayManipulator.pdb
+D:\Давид обучение\26.07.2022\Solution\ArrayManipulator\obj\Debug\net6.0\ArrayManipulator.csproj.AssemblyReference.cache
+D:\Давид обучение\26.07.2022\Solution\ArrayManipulator\obj\Debug\net6.0\ArrayManipulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид обучение\26.07.2022\Solution\ArrayManipulator\obj\Debug\net6.0\ArrayManipulator.AssemblyInfoInputs.cache
+D:\Давид обучение\26.07.2022\Solution\ArrayManipulator\obj\Debug\net6.0\ArrayManipulator.AssemblyInfo.cs
+D:\Давид обучение\26.07.2022\Solution\ArrayManipulator\obj\Debug\net6.0\ArrayManipulator.csproj.CoreCompileInputs.cache
+D:\Давид обучение\26.07.2022\Solution\ArrayManipulator\obj\Debug\net6.0\ArrayManipulator.dll
+D:\Давид обучение\26.07.2022\Solution\ArrayManipulator\obj\Debug\net6.0\refint\ArrayManipulator.dll
+D:\Давид обучение\26.07.2022\Solution\ArrayManipulator\obj\Debug\net6.0\ArrayManipulator.pdb
+D:\Давид обучение\26.07.2022\Solution\ArrayManipulator\obj\Debug\net6.0\ArrayManipulator.genruntimeconfig.cache
+D:\Давид обучение\26.07.2022\Solution\ArrayManipulator\obj\Debug\net6.0\ref\ArrayManipulator.dll

@@ -1,0 +1,15 @@
+D:\Давид обучение\26.07.2022\Solution\LongerLine\bin\Debug\net6.0\LongerLine.exe
+D:\Давид обучение\26.07.2022\Solution\LongerLine\bin\Debug\net6.0\LongerLine.deps.json
+D:\Давид обучение\26.07.2022\Solution\LongerLine\bin\Debug\net6.0\LongerLine.runtimeconfig.json
+D:\Давид обучение\26.07.2022\Solution\LongerLine\bin\Debug\net6.0\LongerLine.dll
+D:\Давид обучение\26.07.2022\Solution\LongerLine\bin\Debug\net6.0\LongerLine.pdb
+D:\Давид обучение\26.07.2022\Solution\LongerLine\obj\Debug\net6.0\LongerLine.csproj.AssemblyReference.cache
+D:\Давид обучение\26.07.2022\Solution\LongerLine\obj\Debug\net6.0\LongerLine.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид обучение\26.07.2022\Solution\LongerLine\obj\Debug\net6.0\LongerLine.AssemblyInfoInputs.cache
+D:\Давид обучение\26.07.2022\Solution\LongerLine\obj\Debug\net6.0\LongerLine.AssemblyInfo.cs
+D:\Давид обучение\26.07.2022\Solution\LongerLine\obj\Debug\net6.0\LongerLine.csproj.CoreCompileInputs.cache
+D:\Давид обучение\26.07.2022\Solution\LongerLine\obj\Debug\net6.0\LongerLine.dll
+D:\Давид обучение\26.07.2022\Solution\LongerLine\obj\Debug\net6.0\refint\LongerLine.dll
+D:\Давид обучение\26.07.2022\Solution\LongerLine\obj\Debug\net6.0\LongerLine.pdb
+D:\Давид обучение\26.07.2022\Solution\LongerLine\obj\Debug\net6.0\LongerLine.genruntimeconfig.cache
+D:\Давид обучение\26.07.2022\Solution\LongerLine\obj\Debug\net6.0\ref\LongerLine.dll

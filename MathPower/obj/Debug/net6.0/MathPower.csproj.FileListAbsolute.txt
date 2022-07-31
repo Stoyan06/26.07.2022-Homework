@@ -1,0 +1,15 @@
+D:\Давид обучение\26.07.2022\Solution\MathPower\bin\Debug\net6.0\MathPower.exe
+D:\Давид обучение\26.07.2022\Solution\MathPower\bin\Debug\net6.0\MathPower.deps.json
+D:\Давид обучение\26.07.2022\Solution\MathPower\bin\Debug\net6.0\MathPower.runtimeconfig.json
+D:\Давид обучение\26.07.2022\Solution\MathPower\bin\Debug\net6.0\MathPower.dll
+D:\Давид обучение\26.07.2022\Solution\MathPower\bin\Debug\net6.0\MathPower.pdb
+D:\Давид обучение\26.07.2022\Solution\MathPower\obj\Debug\net6.0\MathPower.csproj.AssemblyReference.cache
+D:\Давид обучение\26.07.2022\Solution\MathPower\obj\Debug\net6.0\MathPower.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид обучение\26.07.2022\Solution\MathPower\obj\Debug\net6.0\MathPower.AssemblyInfoInputs.cache
+D:\Давид обучение\26.07.2022\Solution\MathPower\obj\Debug\net6.0\MathPower.AssemblyInfo.cs
+D:\Давид обучение\26.07.2022\Solution\MathPower\obj\Debug\net6.0\MathPower.csproj.CoreCompileInputs.cache
+D:\Давид обучение\26.07.2022\Solution\MathPower\obj\Debug\net6.0\MathPower.dll
+D:\Давид обучение\26.07.2022\Solution\MathPower\obj\Debug\net6.0\refint\MathPower.dll
+D:\Давид обучение\26.07.2022\Solution\MathPower\obj\Debug\net6.0\MathPower.pdb
+D:\Давид обучение\26.07.2022\Solution\MathPower\obj\Debug\net6.0\MathPower.genruntimeconfig.cache
+D:\Давид обучение\26.07.2022\Solution\MathPower\obj\Debug\net6.0\ref\MathPower.dll

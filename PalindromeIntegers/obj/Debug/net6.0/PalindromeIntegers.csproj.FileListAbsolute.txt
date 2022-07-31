@@ -1,0 +1,15 @@
+D:\Давид обучение\26.07.2022\Solution\PalindromeIntegers\bin\Debug\net6.0\PalindromeIntegers.exe
+D:\Давид обучение\26.07.2022\Solution\PalindromeIntegers\bin\Debug\net6.0\PalindromeIntegers.deps.json
+D:\Давид обучение\26.07.2022\Solution\PalindromeIntegers\bin\Debug\net6.0\PalindromeIntegers.runtimeconfig.json
+D:\Давид обучение\26.07.2022\Solution\PalindromeIntegers\bin\Debug\net6.0\PalindromeIntegers.dll
+D:\Давид обучение\26.07.2022\Solution\PalindromeIntegers\bin\Debug\net6.0\PalindromeIntegers.pdb
+D:\Давид обучение\26.07.2022\Solution\PalindromeIntegers\obj\Debug\net6.0\PalindromeIntegers.csproj.AssemblyReference.cache
+D:\Давид обучение\26.07.2022\Solution\PalindromeIntegers\obj\Debug\net6.0\PalindromeIntegers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид обучение\26.07.2022\Solution\PalindromeIntegers\obj\Debug\net6.0\PalindromeIntegers.AssemblyInfoInputs.cache
+D:\Давид обучение\26.07.2022\Solution\PalindromeIntegers\obj\Debug\net6.0\PalindromeIntegers.AssemblyInfo.cs
+D:\Давид обучение\26.07.2022\Solution\PalindromeIntegers\obj\Debug\net6.0\PalindromeIntegers.csproj.CoreCompileInputs.cache
+D:\Давид обучение\26.07.2022\Solution\PalindromeIntegers\obj\Debug\net6.0\PalindromeIntegers.dll
+D:\Давид обучение\26.07.2022\Solution\PalindromeIntegers\obj\Debug\net6.0\refint\PalindromeIntegers.dll
+D:\Давид обучение\26.07.2022\Solution\PalindromeIntegers\obj\Debug\net6.0\PalindromeIntegers.pdb
+D:\Давид обучение\26.07.2022\Solution\PalindromeIntegers\obj\Debug\net6.0\PalindromeIntegers.genruntimeconfig.cache
+D:\Давид обучение\26.07.2022\Solution\PalindromeIntegers\obj\Debug\net6.0\ref\PalindromeIntegers.dll

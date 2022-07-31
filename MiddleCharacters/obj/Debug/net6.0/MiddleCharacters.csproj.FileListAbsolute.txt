@@ -1,0 +1,15 @@
+D:\Давид обучение\26.07.2022\Solution\MiddleCharacters\bin\Debug\net6.0\MiddleCharacters.exe
+D:\Давид обучение\26.07.2022\Solution\MiddleCharacters\bin\Debug\net6.0\MiddleCharacters.deps.json
+D:\Давид обучение\26.07.2022\Solution\MiddleCharacters\bin\Debug\net6.0\MiddleCharacters.runtimeconfig.json
+D:\Давид обучение\26.07.2022\Solution\MiddleCharacters\bin\Debug\net6.0\MiddleCharacters.dll
+D:\Давид обучение\26.07.2022\Solution\MiddleCharacters\bin\Debug\net6.0\MiddleCharacters.pdb
+D:\Давид обучение\26.07.2022\Solution\MiddleCharacters\obj\Debug\net6.0\MiddleCharacters.csproj.AssemblyReference.cache
+D:\Давид обучение\26.07.2022\Solution\MiddleCharacters\obj\Debug\net6.0\MiddleCharacters.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид обучение\26.07.2022\Solution\MiddleCharacters\obj\Debug\net6.0\MiddleCharacters.AssemblyInfoInputs.cache
+D:\Давид обучение\26.07.2022\Solution\MiddleCharacters\obj\Debug\net6.0\MiddleCharacters.AssemblyInfo.cs
+D:\Давид обучение\26.07.2022\Solution\MiddleCharacters\obj\Debug\net6.0\MiddleCharacters.csproj.CoreCompileInputs.cache
+D:\Давид обучение\26.07.2022\Solution\MiddleCharacters\obj\Debug\net6.0\MiddleCharacters.dll
+D:\Давид обучение\26.07.2022\Solution\MiddleCharacters\obj\Debug\net6.0\refint\MiddleCharacters.dll
+D:\Давид обучение\26.07.2022\Solution\MiddleCharacters\obj\Debug\net6.0\MiddleCharacters.pdb
+D:\Давид обучение\26.07.2022\Solution\MiddleCharacters\obj\Debug\net6.0\MiddleCharacters.genruntimeconfig.cache
+D:\Давид обучение\26.07.2022\Solution\MiddleCharacters\obj\Debug\net6.0\ref\MiddleCharacters.dll

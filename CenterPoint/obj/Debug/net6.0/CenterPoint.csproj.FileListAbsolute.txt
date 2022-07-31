@@ -1,0 +1,15 @@
+D:\Давид обучение\26.07.2022\Solution\CenterPoint\bin\Debug\net6.0\CenterPoint.exe
+D:\Давид обучение\26.07.2022\Solution\CenterPoint\bin\Debug\net6.0\CenterPoint.deps.json
+D:\Давид обучение\26.07.2022\Solution\CenterPoint\bin\Debug\net6.0\CenterPoint.runtimeconfig.json
+D:\Давид обучение\26.07.2022\Solution\CenterPoint\bin\Debug\net6.0\CenterPoint.dll
+D:\Давид обучение\26.07.2022\Solution\CenterPoint\bin\Debug\net6.0\CenterPoint.pdb
+D:\Давид обучение\26.07.2022\Solution\CenterPoint\obj\Debug\net6.0\CenterPoint.csproj.AssemblyReference.cache
+D:\Давид обучение\26.07.2022\Solution\CenterPoint\obj\Debug\net6.0\CenterPoint.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид обучение\26.07.2022\Solution\CenterPoint\obj\Debug\net6.0\CenterPoint.AssemblyInfoInputs.cache
+D:\Давид обучение\26.07.2022\Solution\CenterPoint\obj\Debug\net6.0\CenterPoint.AssemblyInfo.cs
+D:\Давид обучение\26.07.2022\Solution\CenterPoint\obj\Debug\net6.0\CenterPoint.csproj.CoreCompileInputs.cache
+D:\Давид обучение\26.07.2022\Solution\CenterPoint\obj\Debug\net6.0\CenterPoint.dll
+D:\Давид обучение\26.07.2022\Solution\CenterPoint\obj\Debug\net6.0\refint\CenterPoint.dll
+D:\Давид обучение\26.07.2022\Solution\CenterPoint\obj\Debug\net6.0\CenterPoint.pdb
+D:\Давид обучение\26.07.2022\Solution\CenterPoint\obj\Debug\net6.0\CenterPoint.genruntimeconfig.cache
+D:\Давид обучение\26.07.2022\Solution\CenterPoint\obj\Debug\net6.0\ref\CenterPoint.dll

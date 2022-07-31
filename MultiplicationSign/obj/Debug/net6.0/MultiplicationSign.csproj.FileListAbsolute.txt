@@ -1,0 +1,15 @@
+D:\Давид обучение\26.07.2022\Solution\MultiplicationSign\bin\Debug\net6.0\MultiplicationSign.exe
+D:\Давид обучение\26.07.2022\Solution\MultiplicationSign\bin\Debug\net6.0\MultiplicationSign.deps.json
+D:\Давид обучение\26.07.2022\Solution\MultiplicationSign\bin\Debug\net6.0\MultiplicationSign.runtimeconfig.json
+D:\Давид обучение\26.07.2022\Solution\MultiplicationSign\bin\Debug\net6.0\MultiplicationSign.dll
+D:\Давид обучение\26.07.2022\Solution\MultiplicationSign\bin\Debug\net6.0\MultiplicationSign.pdb
+D:\Давид обучение\26.07.2022\Solution\MultiplicationSign\obj\Debug\net6.0\MultiplicationSign.csproj.AssemblyReference.cache
+D:\Давид обучение\26.07.2022\Solution\MultiplicationSign\obj\Debug\net6.0\MultiplicationSign.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид обучение\26.07.2022\Solution\MultiplicationSign\obj\Debug\net6.0\MultiplicationSign.AssemblyInfoInputs.cache
+D:\Давид обучение\26.07.2022\Solution\MultiplicationSign\obj\Debug\net6.0\MultiplicationSign.AssemblyInfo.cs
+D:\Давид обучение\26.07.2022\Solution\MultiplicationSign\obj\Debug\net6.0\MultiplicationSign.csproj.CoreCompileInputs.cache
+D:\Давид обучение\26.07.2022\Solution\MultiplicationSign\obj\Debug\net6.0\MultiplicationSign.dll
+D:\Давид обучение\26.07.2022\Solution\MultiplicationSign\obj\Debug\net6.0\refint\MultiplicationSign.dll
+D:\Давид обучение\26.07.2022\Solution\MultiplicationSign\obj\Debug\net6.0\MultiplicationSign.pdb
+D:\Давид обучение\26.07.2022\Solution\MultiplicationSign\obj\Debug\net6.0\MultiplicationSign.genruntimeconfig.cache
+D:\Давид обучение\26.07.2022\Solution\MultiplicationSign\obj\Debug\net6.0\ref\MultiplicationSign.dll

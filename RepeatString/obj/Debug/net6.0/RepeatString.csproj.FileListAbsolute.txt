@@ -1,0 +1,15 @@
+D:\Давид обучение\26.07.2022\Solution\RepeatString\bin\Debug\net6.0\RepeatString.exe
+D:\Давид обучение\26.07.2022\Solution\RepeatString\bin\Debug\net6.0\RepeatString.deps.json
+D:\Давид обучение\26.07.2022\Solution\RepeatString\bin\Debug\net6.0\RepeatString.runtimeconfig.json
+D:\Давид обучение\26.07.2022\Solution\RepeatString\bin\Debug\net6.0\RepeatString.dll
+D:\Давид обучение\26.07.2022\Solution\RepeatString\bin\Debug\net6.0\RepeatString.pdb
+D:\Давид обучение\26.07.2022\Solution\RepeatString\obj\Debug\net6.0\RepeatString.csproj.AssemblyReference.cache
+D:\Давид обучение\26.07.2022\Solution\RepeatString\obj\Debug\net6.0\RepeatString.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид обучение\26.07.2022\Solution\RepeatString\obj\Debug\net6.0\RepeatString.AssemblyInfoInputs.cache
+D:\Давид обучение\26.07.2022\Solution\RepeatString\obj\Debug\net6.0\RepeatString.AssemblyInfo.cs
+D:\Давид обучение\26.07.2022\Solution\RepeatString\obj\Debug\net6.0\RepeatString.csproj.CoreCompileInputs.cache
+D:\Давид обучение\26.07.2022\Solution\RepeatString\obj\Debug\net6.0\RepeatString.dll
+D:\Давид обучение\26.07.2022\Solution\RepeatString\obj\Debug\net6.0\refint\RepeatString.dll
+D:\Давид обучение\26.07.2022\Solution\RepeatString\obj\Debug\net6.0\RepeatString.pdb
+D:\Давид обучение\26.07.2022\Solution\RepeatString\obj\Debug\net6.0\RepeatString.genruntimeconfig.cache
+D:\Давид обучение\26.07.2022\Solution\RepeatString\obj\Debug\net6.0\ref\RepeatString.dll

@@ -1,0 +1,15 @@
+D:\Давид обучение\26.07.2022\Solution\AddAndSubtract\bin\Debug\net6.0\AddAndSubtract.exe
+D:\Давид обучение\26.07.2022\Solution\AddAndSubtract\bin\Debug\net6.0\AddAndSubtract.deps.json
+D:\Давид обучение\26.07.2022\Solution\AddAndSubtract\bin\Debug\net6.0\AddAndSubtract.runtimeconfig.json
+D:\Давид обучение\26.07.2022\Solution\AddAndSubtract\bin\Debug\net6.0\AddAndSubtract.dll
+D:\Давид обучение\26.07.2022\Solution\AddAndSubtract\bin\Debug\net6.0\AddAndSubtract.pdb
+D:\Давид обучение\26.07.2022\Solution\AddAndSubtract\obj\Debug\net6.0\AddAndSubtract.csproj.AssemblyReference.cache
+D:\Давид обучение\26.07.2022\Solution\AddAndSubtract\obj\Debug\net6.0\AddAndSubtract.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид обучение\26.07.2022\Solution\AddAndSubtract\obj\Debug\net6.0\AddAndSubtract.AssemblyInfoInputs.cache
+D:\Давид обучение\26.07.2022\Solution\AddAndSubtract\obj\Debug\net6.0\AddAndSubtract.AssemblyInfo.cs
+D:\Давид обучение\26.07.2022\Solution\AddAndSubtract\obj\Debug\net6.0\AddAndSubtract.csproj.CoreCompileInputs.cache
+D:\Давид обучение\26.07.2022\Solution\AddAndSubtract\obj\Debug\net6.0\AddAndSubtract.dll
+D:\Давид обучение\26.07.2022\Solution\AddAndSubtract\obj\Debug\net6.0\refint\AddAndSubtract.dll
+D:\Давид обучение\26.07.2022\Solution\AddAndSubtract\obj\Debug\net6.0\AddAndSubtract.pdb
+D:\Давид обучение\26.07.2022\Solution\AddAndSubtract\obj\Debug\net6.0\AddAndSubtract.genruntimeconfig.cache
+D:\Давид обучение\26.07.2022\Solution\AddAndSubtract\obj\Debug\net6.0\ref\AddAndSubtract.dll

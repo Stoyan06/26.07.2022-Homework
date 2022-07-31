@@ -1,0 +1,15 @@
+D:\Давид обучение\26.07.2022\Solution\CalculateRectangleArea\bin\Debug\net6.0\CalculateRectangleArea.exe
+D:\Давид обучение\26.07.2022\Solution\CalculateRectangleArea\bin\Debug\net6.0\CalculateRectangleArea.deps.json
+D:\Давид обучение\26.07.2022\Solution\CalculateRectangleArea\bin\Debug\net6.0\CalculateRectangleArea.runtimeconfig.json
+D:\Давид обучение\26.07.2022\Solution\CalculateRectangleArea\bin\Debug\net6.0\CalculateRectangleArea.dll
+D:\Давид обучение\26.07.2022\Solution\CalculateRectangleArea\bin\Debug\net6.0\CalculateRectangleArea.pdb
+D:\Давид обучение\26.07.2022\Solution\CalculateRectangleArea\obj\Debug\net6.0\CalculateRectangleArea.csproj.AssemblyReference.cache
+D:\Давид обучение\26.07.2022\Solution\CalculateRectangleArea\obj\Debug\net6.0\CalculateRectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид обучение\26.07.2022\Solution\CalculateRectangleArea\obj\Debug\net6.0\CalculateRectangleArea.AssemblyInfoInputs.cache
+D:\Давид обучение\26.07.2022\Solution\CalculateRectangleArea\obj\Debug\net6.0\CalculateRectangleArea.AssemblyInfo.cs
+D:\Давид обучение\26.07.2022\Solution\CalculateRectangleArea\obj\Debug\net6.0\CalculateRectangleArea.csproj.CoreCompileInputs.cache
+D:\Давид обучение\26.07.2022\Solution\CalculateRectangleArea\obj\Debug\net6.0\CalculateRectangleArea.dll
+D:\Давид обучение\26.07.2022\Solution\CalculateRectangleArea\obj\Debug\net6.0\refint\CalculateRectangleArea.dll
+D:\Давид обучение\26.07.2022\Solution\CalculateRectangleArea\obj\Debug\net6.0\CalculateRectangleArea.pdb
+D:\Давид обучение\26.07.2022\Solution\CalculateRectangleArea\obj\Debug\net6.0\CalculateRectangleArea.genruntimeconfig.cache
+D:\Давид обучение\26.07.2022\Solution\CalculateRectangleArea\obj\Debug\net6.0\ref\CalculateRectangleArea.dll
