@@ -35,9 +35,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongerLine", "LongerLine\Lo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TribonacciSequence", "TribonacciSequence\TribonacciSequence.csproj", "{0A03806A-4C2B-45F9-8018-994AB9C822B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplicationSign", "MultiplicationSign\MultiplicationSign.csproj", "{7C057831-13E2-41A2-B7D7-C5EFDAE00E51}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultiplicationSign", "MultiplicationSign\MultiplicationSign.csproj", "{7C057831-13E2-41A2-B7D7-C5EFDAE00E51}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayManipulator", "ArrayManipulator\ArrayManipulator.csproj", "{F9C3D210-6F63-44C3-BF0C-2B00259A1558}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayManipulator", "ArrayManipulator\ArrayManipulator.csproj", "{F9C3D210-6F63-44C3-BF0C-2B00259A1558}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTypes", "DataTypes\DataTypes.csproj", "{4C7686F4-4B29-461E-A3BE-F6486E442E86}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +119,10 @@ Global
 		{F9C3D210-6F63-44C3-BF0C-2B00259A1558}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9C3D210-6F63-44C3-BF0C-2B00259A1558}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9C3D210-6F63-44C3-BF0C-2B00259A1558}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C7686F4-4B29-461E-A3BE-F6486E442E86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C7686F4-4B29-461E-A3BE-F6486E442E86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C7686F4-4B29-461E-A3BE-F6486E442E86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C7686F4-4B29-461E-A3BE-F6486E442E86}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
